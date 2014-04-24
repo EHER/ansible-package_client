@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Alexandre Eher
+  description: A role to install packages from your own software channel
+  license: BSD
+  min_ansible_version: 1.5
+  platforms:
+  - name: Ubuntu
+    versions:
+      - all
+  categories:
+  - development
+  - packaging
+dependencies: []
